@@ -33,14 +33,7 @@ A API disponibiliza um endpoint /zipcode/{zipCode} que recebe um CEP como parâm
 
 - Você pode [acessar o código fonte](https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive/tree/main/src/main/java/br/com/diego)
 
-- ou fazer o clone do projeto:
-```json
-{
-  "git clone" : "https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive.git"
-}
-```
-
-
+- ou fazer o clone do projeto: <pre><code>git clone https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive.git</code></pre>
 
 - ou baixar o [zip do projeto](https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive/archive/refs/heads/main.zip).
 
