@@ -34,7 +34,7 @@ Utilize o Maven para construir o projeto.
 
 Execução da Aplicação:
 Execute o JAR gerado pelo Maven.
-`java -jar target/consumer-sqs-0.0.1-SNAPSHOT.jar`
+`java -jar target/exemplo-feign-reactor-1.0.0.jar`
 
 ### Acesso à API:
 - A API estará disponível em http://localhost:8080/zipcode/{zipCode}.
