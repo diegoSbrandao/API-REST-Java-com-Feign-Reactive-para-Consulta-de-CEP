@@ -36,7 +36,7 @@ A API disponibiliza um endpoint /zipcode/{zipCode} que recebe um CEP como parâm
 - ou fazer o clone do projeto:
 ```json
 {
-  git clone : https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive.git
+  "git clone" : "https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive.git"
 }
 ```
 
