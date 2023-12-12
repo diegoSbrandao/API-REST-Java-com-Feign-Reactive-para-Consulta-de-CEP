@@ -1,4 +1,10 @@
 # API REST Java com Feign Reactive para Consulta de CEP
+[![Java](https://img.shields.io/badge/Java-17-green.svg)](https://docs.oracle.com/javase/17/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.15-brightgreen.svg)](https://spring.io/projects/spring-boot)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Spring WebFlux](https://img.shields.io/badge/Spring%20WebFlux-3.2.0-brightgreen.svg)](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
+[![Feign Reactive](https://img.shields.io/badge/Feign%20Reactive-3.0.3-blue.svg)](https://github.com/OpenFeign/feign)
+
 
 Este projeto é um exemplo de como utilizar o feign reactive numa API REST Java para consumir dados de CEP de uma API externa, a API do ViaCEP (https://viacep.com.br). O projeto permite obter informações de endereços a partir de um CEP.
 
