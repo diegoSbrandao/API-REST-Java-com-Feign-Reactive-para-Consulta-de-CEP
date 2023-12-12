@@ -28,12 +28,17 @@ Este projeto é um exemplo de como utilizar o feign reactive numa API REST Java 
 
 A API disponibiliza um endpoint /zipcode/{zipCode} que recebe um CEP como parâmetro e retorna um objeto CepResponse contendo as informações do endereço associado ao CEP.
 
-## Como Rodar
+## 📁 Acesso ao projeto
 
-Configuração do Ambiente:
+- Você pode [acessar o código fonte](https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive/tree/main/src/main/java/br/com/diego)
+- ou fazer o [clone do projeto](https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive.git).
+- ou baixar o [zip do projeto](https://github.com/diegoSbrandao/API_REST-Java-com-Feign_Reactive/archive/refs/heads/main.zip).
 
-Certifique-se de ter o Java 17 instalado em seu ambiente.
-Build do Projeto:
+## Configuração do Ambiente:
+
+* Certifique-se de ter o Java 17 instalado em seu ambiente.
+
+### 🛠️ Abrir e rodar o projeto
 
 Utilize o Maven para construir o projeto.
 `mvn clean install`
