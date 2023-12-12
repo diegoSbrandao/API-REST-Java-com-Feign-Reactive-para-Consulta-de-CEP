@@ -40,6 +40,20 @@ Execute o JAR gerado pelo Maven.
 - A API estará disponível em http://localhost:8080/zipcode/{zipCode}.
 - Substitua {zipCode} pelo CEP desejado na URL.
 
+### Exemplo de resposta
+
+```json
+{
+ "cep": "01001-000",
+ "logradouro": "Praça Sete de Setembro",
+ "complemento": "",
+ "bairro": "Centro",
+ "localidade": "Rio de Janeiro",
+ "uf": "RJ"
+}
+```
+
+
 ## Tratamento de Exceções
 - CepNotFoundException: Retorna um status 404 quando o CEP não é encontrado.
 - CommunicationException: Retorna um status 500 em caso de erro de comunicação com o servidor.
