@@ -1,6 +1,6 @@
 # API REST Java com Feign Reactive para Consulta de CEP
 
-Este projeto é um projeto de teste para aprender a utilizar o feign reactive numa API REST Java, sendo que para tal, essa api fará o consumo de dados de CEP de uma API externa, a API do ViaCEP (https://viacep.com.br) e obter informações de endereços a partir de um CEP.
+Este projeto é um exemplo de como utilizar o feign reactive numa API REST Java para consumir dados de CEP de uma API externa, a API do ViaCEP (https://viacep.com.br). O projeto permite obter informações de endereços a partir de um CEP.
 
 ## Tecnologias Utilizadas
 
