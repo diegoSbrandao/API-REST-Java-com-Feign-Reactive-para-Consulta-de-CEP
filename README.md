@@ -84,7 +84,7 @@ Execução da Aplicação: Execute o JAR gerado pelo Maven. <pre><code>`java -ja
 - CepNotFoundException: Retorna um status 404 quando o CEP não é encontrado.
 - CommunicationException: Retorna um status 500 em caso de erro de comunicação com o servidor.
 
-#Observações
+## Observações
 - Certifique-se de que a aplicação esteja rodando antes de fazer chamadas à API.
 - Este projeto utiliza a versão mais recente do Feign Reactive disponível no momento da criação deste README. Recomenda-se verificar se há versões mais recentes disponíveis.
 - Lembre-se de substituir as versões das dependências conforme necessário e considerar atualizações regulares para manter a segurança e a compatibilidade.
